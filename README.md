@@ -49,9 +49,6 @@ MyStore is a responsive React-based e-commerce front-end application that displa
 Open http://localhost:5173 to view it in the browser.
 
 📁 Folder Structure
-css
-Copy
-Edit
 ├── public/
 ├── src/
 │   ├── Components/
